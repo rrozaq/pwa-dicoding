@@ -1,0 +1,2 @@
+- Firebase Hosting : https://laligapwa-8bc1d.firebaseapp.com/
+- Github Hosting : https://rrozaq.github.io/
